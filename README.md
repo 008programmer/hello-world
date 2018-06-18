@@ -1,2 +1,7 @@
 # hello-world
-learning github
+
+Hi
+
+My name is prabhjot singh
+And i am starting using github
+
